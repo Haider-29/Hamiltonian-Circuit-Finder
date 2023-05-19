@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Syed Haider Naqvi\Documents\Fast\Semester 4\Algo\Project\Main.cpp(22,137): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Project.vcxproj -> C:\Users\Syed Haider Naqvi\Documents\Fast\Semester 4\Algo\Project\x64\Debug\Project.exe
